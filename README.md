@@ -61,9 +61,9 @@ I'm a software engineer with over two years of experience in **web development**
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [https://www.linkedin.com/in/hamza-el-youssfi-a1aab2301/](#)
-- **Portfolio**: [hamzaelyoussfi.today](#)
-- **Twitter**: [https://x.com/helyoussfii](#)
+- **LinkedIn**: [Hamza El-Youssfi](https://www.linkedin.com/in/hamza-el-youssfi-a1aab2301/)
+- **Portfolio**: [hamzaelyoussfi.today](https://hamzaelyoussfi.today)
+- **Twitter**: [@helyoussfii](https://x.com/helyoussfii)
 ---
 
 ### 🌟 Fun Fact
