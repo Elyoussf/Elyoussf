@@ -31,7 +31,6 @@ I'm a software engineer with over two years of experience in **web development**
 
 ### 2. **[Git Clone in Rust](#)**
 - Recreated key Git functionalities for version control.
-- Built to understand the inner workings of distributed systems.
 - **Tech Stack**: Rust
 
 ### 3. **[Huffman Encoding Tool](#)** *(Work in Progress)*
