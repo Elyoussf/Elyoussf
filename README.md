@@ -10,7 +10,7 @@ I'm a software engineer with over two years of experience in **web development**
 - **Platforms**: Zorin OS
 
 ### 🌱 Currently Learning:
-- Rust and Crossterm and  library
+- Rust : Crossterm library
 - Go Programming with gorilla/websocket
 - Docker / Kubernetes
 
