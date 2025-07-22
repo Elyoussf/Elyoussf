@@ -6,7 +6,7 @@ I'm a software engineer with over two years of experience in **web development**
 
 ### 🔧 Technologies & Tools:
 - **Programming Languages**: Rust, Go, JavaScript, Python
-- **Frameworks & Libraries**: Gin,React (MERN stack), Vite, WebSockets
+- **Frameworks & Libraries**: Nextjs ,tailwind,React (MERN stack), Vite, WebSockets
 - **Development Tools**: Vscode ,Neovim, tmux, Git, Docker,kubernetes
 - **Platforms**: Zorin OS
 
@@ -21,33 +21,7 @@ I'm a software engineer with over two years of experience in **web development**
 
 ---
 
-## 🛠️ Projects
 
-
-
-### 1. **[Walkie-Talkie Chat App](#)**
-- A chat application where users need only a nickname to join ephemeral conversations.
-- Offers a SaaS model for private servers to ensure secure and independent conversations.
-- **Tech Stack**:React, Go, WebSockets
-
-### 2. **[Git Clone in Rust](#)**
-- Recreated key Git functionalities for version control.
-- **Tech Stack**: Rust
-
-### 3. **[Huffman Encoding Tool](#)** *(Work in Progress)*
-- Developed a data compression tool using Huffman coding.
-- Optimized for performance and accuracy.
-- **Tech Stack**: Rust
-
-
-
-### 5. **[Collaborative Code Editor](#)** *(Work in Progress)*
-- A real-time code editor for teams with collaborative features.
-- Aims to integrate WebSocket-based synchronization.
-- **Tech Stack**: Rust
-
-### 6. **[Adventofcode solutions in rust](#)** *(Work in Progress)*
-- A well done repo to show my solutions for adventofcode challenges In rust .
 ---
 
 ## 📊 GitHub Stats
@@ -63,7 +37,7 @@ I'm a software engineer with over two years of experience in **web development**
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Hamza El-Youssfi](https://www.linkedin.com/in/hamza-el-youssfi-a1aab2301/)
-- **Portfolio**: [hamzaelyoussfi.today](https://hamzaelyoussfi.today)
+- **Portfolio**: [hamzaelyoussfi](https://portfolio-z4m3.vercel.app/)
 - **Twitter**: [@helyoussfii](https://x.com/helyoussfii)
 ---
 
